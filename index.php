@@ -11,10 +11,10 @@ $(document).ready(function() {
             type: 'column'
          },   
          title: {
-            text: 'Grafik Data Mahasiswa Politeknik Caltex Riau 2020'
+            text: 'Grafik Data Mahasiswa Politeknik Caltex Riau 2021'
          },
          xAxis: {
-            categories: ['Asal Daerah']
+            categories: ['Daerah Asal Mahasiswa']
          },
          yAxis: {
             title: {
